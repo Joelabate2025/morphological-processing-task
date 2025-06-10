@@ -13,9 +13,9 @@ This demonstration applies a custom morphological erosion method to a binary mas
 
 | Kernel Size | Execution Time (ms) |
 |-------------|---------------------|
-| 3x3         | 0.92                |
-| 5x5         | 1.05                |
-| 7x7         | 0.87                |
+| 3x3         | 0.108                |
+| 5x5         | 0.157                |
+| 7x7         | 0.213                |
 
 ## 🧩 Application Context
 
